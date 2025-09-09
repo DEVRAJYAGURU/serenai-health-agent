@@ -1,4 +1,4 @@
-Serenai – AI-Powered Health Insights Agent
+# Serenai – AI-Powered Health Insights Agent
 
 Created by: Dev Rajyaguru
 
@@ -22,7 +22,7 @@ Built during my IBM SkillsBuild AI-ML Internship, Serenai transforms traditional
 
 🔑 Authentication & Privacy – Supabase authentication and safe data handling.
 
-🛠️ Tech Stack
+�️ Tech Stack
 
 Frontend/UI: Streamlit
 
@@ -64,3 +64,4 @@ Developed by Dev Rajyaguru
 🌐 Passionate about AI, ML, and building the future of digital healthcare.
 
 ⚡ “Serenai bridges the gap between lab data and life decisions.”
+
